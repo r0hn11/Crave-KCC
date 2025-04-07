@@ -1,0 +1,8 @@
+openai
+python-dotenv
+flask
+hdbcli
+pandas
+sqlalchemy
+sqlalchemy-hana
+rapidfuzz

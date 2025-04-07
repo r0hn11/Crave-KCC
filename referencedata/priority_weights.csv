@@ -1,0 +1,12 @@
+id,Metric,Complexity,High impact
+1,table_complexity,3,0
+2,bapi_fm_complexity,3,1
+3,screens_complexity,2,0
+4,bdc_complexity,2,0
+5,forms_complexity,1,0
+6,code_complexity,3,0
+7,coupling_complexity,3,1
+8,crudops_complexity,2,0
+9,integration_complexity,3,1
+10,workflows_complexity,2,0
+11,sap_module_complexity,2,0

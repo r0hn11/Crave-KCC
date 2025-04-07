@@ -1,0 +1,10 @@
+---
+applications:
+- name: int_ai_keepcoreclean_dev
+  random-route: true
+  path: ./
+  memory: 256M
+  buildpacks: 
+  - python_buildpack
+  command: python server.py 
+  
